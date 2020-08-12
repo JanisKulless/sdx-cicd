@@ -41,7 +41,7 @@ properties([
         ),
         string(
             name: 'APPREPO',
-            defaultValue: 'git@github.com:abuharis/sdx-restapi.git',
+            defaultValue: 'git@github.com:JanisKulless/sdx-restapi.git',
             description: 'path to the application source code (GIT)'
         ),
         string(
